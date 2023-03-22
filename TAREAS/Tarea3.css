@@ -1,0 +1,33 @@
+#Gato1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(7px 7px blue);
+}
+
+#Gato2 {
+  display: block;
+  margin-right: auto;
+  filter: drop-shadow(7px 7px pink);
+}
+
+#Gato3 {
+  display: block;
+  margin-left: auto;
+  filter: drop-shadow(7px 7px red);
+}
+
+#titulo1 {
+  color: cornflowerblue;
+  text-align: center;
+}
+
+#titulo2 {
+  color: deeppink;
+  text-align: center;
+}
+
+#titulo3 {
+  color: crimson;
+  text-align: center;
+}
